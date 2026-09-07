@@ -1,4 +1,7 @@
-python-binance
+python-binance==1.0.19
+pandas==2.2.2
+pandas-ta==0.3.14b0
+python-dotenv==1.0.1python-binance
 pandas
 pandas-ta
 python-dotenv
